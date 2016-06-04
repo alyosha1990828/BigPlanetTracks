@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale19.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale19.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_300.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_300.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\globe.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\globe.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_240.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_240.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale4.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale4.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_180.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_180.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_maps_green_startpoint.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\ic_maps_green_startpoint.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_300.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_300.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_260.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_260.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_by_time.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\menu_by_time.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\tools.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_broswe_icon.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\track_broswe_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_maps_blue_startpoint.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\ic_maps_blue_startpoint.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_140.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_140.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_right_default.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_right_default.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_maps_green_endpoint.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\ic_maps_green_endpoint.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_import_icon.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\track_import_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale12.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale12.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_220.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_220.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale15.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale15.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_right_press.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_right_press.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_manage.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\track_manage.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_right_press.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_right_press.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_20.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_20.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_left.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_240.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_240.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_340.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_340.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_220.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_220.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_maps_green_endpoint.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\ic_maps_green_endpoint.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_record_stop.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_record_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookmark.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_200.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_200.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale17.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale17.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale12.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale12.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_80.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_80.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale15.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale15.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_by_map.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\menu_by_map.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_record_start.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_record_start.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookmark.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_by_map.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\menu_by_map.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_120.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_120.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale6.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale6.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale5.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale5.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_record_start.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_record_start.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale10.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale10.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_right.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_right.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_left_press.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_left_press.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale13.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale13.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale4.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale4.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale9.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale9.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale8.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale8.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_100.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_100.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_marker.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\location_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_record_stop.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_record_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_320.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_320.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_280.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_280.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_60.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_60.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_by_time.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\menu_by_time.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale11.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale11.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale13.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale13.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\autofollow.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\autofollow.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_left_default.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_left_default.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale18.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale18.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_20.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_20.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_340.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_340.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale8.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale8.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\autofollow.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\autofollow.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale5.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale5.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_100.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_100.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_marker.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\location_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_broswe_icon.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\track_broswe_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_left_press.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_left_press.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale17.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale17.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale10.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale10.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale2.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale2.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_maps_green_startpoint.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\ic_maps_green_startpoint.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale3.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale3.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookmark_marker.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\bookmark_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_icon_flag_blue.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\track_icon_flag_blue.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_maps_blue_endpoint.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\ic_maps_blue_endpoint.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_left.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale19.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale19.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_320.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_320.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_icon_flag_blue.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\track_icon_flag_blue.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale2.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale2.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale18.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale18.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale6.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale6.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookmark_marker.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\bookmark_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale1.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale1.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_280.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_280.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale11.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale11.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_right.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_right.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale14.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale14.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_import_icon.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\track_import_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_160.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_160.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_right_default.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_right_default.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\globe.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\globe.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_140.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_140.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale16.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale16.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_maps_blue_endpoint.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\ic_maps_blue_endpoint.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_120.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_120.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_40.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_40.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_160.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_160.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale16.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale16.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_180.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_180.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_icon_flag_red.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\track_icon_flag_red.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale7.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale7.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\tools.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale1.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale1.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_0.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_0.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_manage.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\track_manage.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_260.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_260.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_arrow_left_default.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\btn_arrow_left_default.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_80.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_80.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale3.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale3.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_0.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_0.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale9.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale9.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\track_icon_flag_red.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\track_icon_flag_red.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale7.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale7.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scale14.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\scale14.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_maps_blue_startpoint.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\ic_maps_blue_startpoint.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_200.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_200.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_40.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_40.png"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_60.png",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\drawable\\arrow_60.png"
+    }
+]

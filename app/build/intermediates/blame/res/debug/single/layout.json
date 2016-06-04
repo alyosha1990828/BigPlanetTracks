@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\track_edit_layout.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\track_edit_layout.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\savemap.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\savemap.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\track_icon_list.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\track_icon_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demodialog.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\demodialog.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demodialog.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\demodialog.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\track_icon_list.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\track_icon_list.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\geobookmark.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\geobookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\geobookmark.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\geobookmark.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addgeobookmark.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\addgeobookmark.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stats.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\track_statistics_layout.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\track_statistics_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\savemap.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\savemap.xml"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stats.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addgeobookmark.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\addgeobookmark.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\track_statistics_layout.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\track_statistics_layout.xml"
+    },
+    {
+        "merged": "E:\\android-work\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\track_edit_layout.xml",
+        "source": "E:\\android-work\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\track_edit_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\main\\BigPlanetTracks1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "C:\\Users\\main\\BigPlanetTracks1\\app\\src\\main\\res\\layout\\progress_dialog.xml"
+    }
+]
